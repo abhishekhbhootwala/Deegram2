@@ -288,6 +288,8 @@ sudo docker-compose start
 
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/#/deploy?repository=https://github.com/lstprjct/Deegram2)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/vV8dNi?referralCode=bhoot)
+
 ------
 
 # Extras
